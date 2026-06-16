@@ -1,0 +1,5 @@
+framework,typical_class,efficient_np_complete_power,report_role
+Classical computation,P,No known mechanism,Baseline
+Linear quantum computation,BQP,Not expected generically,Standard quantum baseline
+Nonlinear quantum dynamics,Beyond standard BQP,Possible in generic nonlinear models,Computational warning signal
+Semiclassical gravity,Classical gravity + quantum matter,Paper argues yes under its assumptions,Theory under test

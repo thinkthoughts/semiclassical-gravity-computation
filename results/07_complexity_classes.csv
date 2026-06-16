@@ -1,0 +1,6 @@
+class,meaning,role_in_report
+P,Problems efficiently solvable by deterministic classical computation.,Observed classical baseline.
+NP,Problems whose proposed solutions can be efficiently verified.,Contains NP-complete problems.
+NP-complete,The hardest problems in NP under efficient reductions.,Target of the paper's computational consequence.
+BQP,Problems efficiently solvable by bounded-error quantum computation.,Standard linear quantum computation baseline.
+Nonlinear quantum computation,Quantum evolution where dynamics depend on the quantum state itself.,Mechanism that can change computational power.
