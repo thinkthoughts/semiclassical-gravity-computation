@@ -43,10 +43,11 @@ The report summarizes the paper's argument and organizes the discussion through 
 |-----------|----------|--------|
 | **00_context.ipynb** | Establish the paper's context and core claim. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/00_context.ipynb) |
 | **07_complexity_classes.ipynb** | Explain why efficient NP-complete consequences matter physically. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/07_complexity_classes.ipynb) |
-| **13_schrodinger_newton_v2.ipynb** | Identify where nonlinear dynamics enter through the Schrödinger–Newton pathway. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/13_schrodinger_newton_v2.ipynb) |
+| **13_schrodinger_newton.ipynb** | Identify where nonlinear dynamics enter through the Schrödinger–Newton pathway. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/13_schrodinger_newton.ipynb) |
 | **17_nonlinearity.ipynb** | Explain why nonlinear evolution changes computational power. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/17_nonlinearity.ipynb) |
-| **23_bao_bouland_jordan_v2.ipynb** | Reconstruct the computational architecture linking nonlinearity to efficient NP-complete solutions. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/23_bao_bouland_jordan_v2.ipynb) |
-| **29_quantum_gravity_implications_v2_full.ipynb** | Explore how computational constraints inform interpretation of gravity. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/29_quantum_gravity_implications_v2_full.ipynb) |
+| **23_bao_bouland_jordan.ipynb** | Reconstruct the computational architecture linking nonlinearity to efficient NP-complete solutions. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/23_bao_bouland_jordan.ipynb) |
+| **29_quantum_gravity_implications.ipynb** | Explore how computational constraints inform interpretation of gravity. | [Open in Colab](https://colab.research.google.com/github/thinkthoughts/semiclassical-gravity-computation/blob/main/notebooks/29_quantum_gravity_implications.ipynb) |
+
 # Figures
 
 ## Notebook 07
