@@ -1,0 +1,3 @@
+case,evolution,state_dependence,computational_relevance
+Linear quantum mechanics,i∂ψ/∂t = Hψ,H is fixed externally,Standard BQP-style baseline.
+Schrödinger–Newton-type dynamics,i∂ψ/∂t = H[ψ]ψ,H depends on ψ through the gravitational potential,Nonlinearity can change computational power.
