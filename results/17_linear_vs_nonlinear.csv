@@ -1,0 +1,6 @@
+feature,linear_quantum,nonlinear_quantum
+evolution,i∂ψ/∂t = Hψ,i∂ψ/∂t = H[ψ]ψ
+Hamiltonian,H is fixed independently of ψ,H depends on ψ
+state distinguishability,Inner-product structure constrains distinguishability,State-dependent evolution can amplify distinctions
+computational baseline,BQP,Can exceed standard BQP in generic nonlinear models
+physical role,Standard quantum theory,Theory feature under investigation

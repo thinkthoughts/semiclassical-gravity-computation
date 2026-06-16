@@ -1,0 +1,6 @@
+step,stage,role
+1,State dependence,The evolution rule depends on the quantum state being evolved.
+2,Nonlinear evolution,The map from initial state to later state is not linear.
+3,Enhanced distinguishability,Small differences between states can be amplified by nonlinear dynamics.
+4,Efficient NP-complete power,Generic nonlinear quantum models can permit efficient solutions to NP-complete problems.
+5,Physical constraint,Observed computational limits make this a test of physical plausibility.
