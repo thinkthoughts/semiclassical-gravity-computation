@@ -1,0 +1,4 @@
+model,trials,crossing_rate,median_crossing_time,max_distinguishability_mean,max_distinguishability_max
+deterministic_nonlinear,1,1.0,6.0,0.9313861596457909,0.9313861596457909
+linear_baseline,1,0.0,,0.02,0.02
+stochastic_noise,200,0.0,,0.05794184234677349,0.09333237442463026

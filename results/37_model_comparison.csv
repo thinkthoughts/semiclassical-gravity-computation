@@ -1,0 +1,4 @@
+model,behavior,decision_relevance
+Linear baseline,Distinguishability remains near its initial value.,No reliable threshold crossing.
+Deterministic nonlinear amplification,Distinguishability grows systematically.,Reliable threshold crossing supports decision extraction.
+Stochastic noise comparison,Distinguishability fluctuates.,Fluctuations alone do not provide reliable computational amplification.
