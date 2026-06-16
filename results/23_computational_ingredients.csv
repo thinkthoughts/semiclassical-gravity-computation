@@ -1,0 +1,6 @@
+ingredient,role
+State dependence,Evolution depends on the state being evolved.
+Nonlinear evolution,Dynamics are not constrained by linear structure.
+Distinguishability amplification,Nearby states can become operationally separable.
+Decision extraction,Amplified distinctions support computational decisions.
+Efficient NP-complete solutions,The resulting dynamics exceed expected computational baselines.
